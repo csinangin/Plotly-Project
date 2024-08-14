@@ -96,4 +96,4 @@ Proje, aşağıdaki grafik türlerini içermektedir:
 Projemi çalıştırmak için öncelikle gerekli kütüphaneleri yükleyin ve 'timesData.csv' veri setini indirin. Daha sonra Jupyter Notebook ortamında en son haliyle projeyi çalıştırabilirsiniz.
 
 ## İletişim
-Herhangi bir soru veya geri dönüş için benimle iletişime geçebilirsiniz.
+Herhangi bir soru veya geri dönüş için benimle iletişime geçebilirsiniz."# Plotly-Project" 
